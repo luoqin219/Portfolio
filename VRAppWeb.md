@@ -4,6 +4,8 @@
 
 ![](img/vrapp.jpg)
 
+
+
 **Objective**: There is one drawback of the VRApp itself - users can only review the data analysis in our lab's computer and only after finishing one practice session. Therefore, we decided to build a web application to migarate all data and visualize them, so that students along with teachers can check any practice session's data anytime and anywhere.
 
 **Main Functionalities**:
@@ -23,7 +25,7 @@
 
 <img src="img/vrweb1.jpeg" style="zoom: 80%;" />
 
-<img src="img/vrweb2.png" style="zoom: 45%;" /><img src="img/vrweb5.png" style="zoom: 50%;" />
+​                                            <img src="img/vrweb2.png" style="zoom: 33%;" /><img src="img/vrweb5.png" style="zoom: 33%;" />
 
 <img src="img/vrweb4.jpeg" style="zoom:50%;" />
 
@@ -31,9 +33,9 @@
 
 # Architecture
 
-<img src="/Users/qinluo/Library/Application Support/typora-user-images/image-20210112204719167.png" alt="image-20210112204719167" style="zoom:67%;" />
+<img src="img/vrarch1.jpg" style="zoom:80%;" />
 
-<img src="/Users/qinluo/Library/Application Support/typora-user-images/image-20210112204800801.png" alt="image-20210112204800801" style="zoom: 50%;" />
+<img src="img/vrarch2.jpg" style="zoom:80%;" />
 
 ## Role - The ONLY Front-end Engineer
 
