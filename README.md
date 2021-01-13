@@ -1,2 +1,8 @@
 # Portfolio
-## This repo is designated to introduce personal internship and academic projects.
+This repo is used to introduce personal internship and academic projects.
+
+## Projects
+
+- [2020SummerInternship](/VRAppWeb.md)
+- [SocialNetworkApp](/SocialNetworkApp.md)
+
