@@ -25,7 +25,7 @@
 
 <img src="img/vrweb1.jpeg" style="zoom: 80%;" />
 
-​                                            <img src="img/vrweb2.png" style="zoom: 33%;" /><img src="img/vrweb5.png" style="zoom: 33%;" />
+​                  
 
 <img src="img/vrweb4.jpeg" style="zoom:50%;" />
 
